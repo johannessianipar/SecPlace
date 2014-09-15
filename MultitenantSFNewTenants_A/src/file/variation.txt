@@ -1,0 +1,180 @@
+_____Data base# 0_____
+Tenant count 20
+ConsumerGoods: 0.05
+Energy_and_Chemicals: 0.1
+Financial: 0.1
+Government: 0.05
+Healthcare: 0.0
+High_Tech: 0.2
+Higher_Education: 0.0
+Manufacturing: 0.1
+Media: 0.0
+Non_Profit: 0.05
+Retail: 0.05
+Hospitality: 0.15
+Travel: 0.05
+Staffing: 0.0
+Logistics: 0.1
+Security: 0.0
+_____Data base# 1_____
+Tenant count 20
+ConsumerGoods: 0.05
+Energy_and_Chemicals: 0.0
+Financial: 0.15
+Government: 0.0
+Healthcare: 0.1
+High_Tech: 0.2
+Higher_Education: 0.0
+Manufacturing: 0.25
+Media: 0.05
+Non_Profit: 0.05
+Retail: 0.0
+Hospitality: 0.1
+Travel: 0.0
+Staffing: 0.0
+Logistics: 0.0
+Security: 0.05
+_____Data base# 2_____
+Tenant count 20
+ConsumerGoods: 0.05
+Energy_and_Chemicals: 0.1
+Financial: 0.15
+Government: 0.0
+Healthcare: 0.1
+High_Tech: 0.0
+Higher_Education: 0.1
+Manufacturing: 0.1
+Media: 0.0
+Non_Profit: 0.05
+Retail: 0.1
+Hospitality: 0.15
+Travel: 0.0
+Staffing: 0.1
+Logistics: 0.0
+Security: 0.0
+_____Data base# 3_____
+Tenant count 20
+ConsumerGoods: 0.05
+Energy_and_Chemicals: 0.05
+Financial: 0.1
+Government: 0.1
+Healthcare: 0.05
+High_Tech: 0.15
+Higher_Education: 0.0
+Manufacturing: 0.2
+Media: 0.05
+Non_Profit: 0.0
+Retail: 0.0
+Hospitality: 0.15
+Travel: 0.1
+Staffing: 0.0
+Logistics: 0.0
+Security: 0.0
+_____Data base# 4_____
+Tenant count 20
+ConsumerGoods: 0.0
+Energy_and_Chemicals: 0.05
+Financial: 0.2
+Government: 0.05
+Healthcare: 0.15
+High_Tech: 0.15
+Higher_Education: 0.0
+Manufacturing: 0.15
+Media: 0.0
+Non_Profit: 0.05
+Retail: 0.05
+Hospitality: 0.05
+Travel: 0.05
+Staffing: 0.0
+Logistics: 0.0
+Security: 0.05
+_____Data base# 0_____
+Tenant count 20
+ConsumerGoods: 0.05
+Energy_and_Chemicals: 0.1
+Financial: 0.15
+Government: 0.05
+Healthcare: 0.1
+High_Tech: 0.15
+Higher_Education: 0.05
+Manufacturing: 0.1
+Media: 0.05
+Non_Profit: 0.05
+Retail: 0.05
+Hospitality: 0.1
+Travel: 0.0
+Staffing: 0.0
+Logistics: 0.0
+Security: 0.0
+_____Data base# 1_____
+Tenant count 20
+ConsumerGoods: 0.05
+Energy_and_Chemicals: 0.05
+Financial: 0.15
+Government: 0.05
+Healthcare: 0.05
+High_Tech: 0.15
+Higher_Education: 0.05
+Manufacturing: 0.15
+Media: 0.05
+Non_Profit: 0.1
+Retail: 0.05
+Hospitality: 0.1
+Travel: 0.0
+Staffing: 0.0
+Logistics: 0.0
+Security: 0.0
+_____Data base# 2_____
+Tenant count 20
+ConsumerGoods: 0.05
+Energy_and_Chemicals: 0.05
+Financial: 0.15
+Government: 0.05
+Healthcare: 0.05
+High_Tech: 0.1
+Higher_Education: 0.0
+Manufacturing: 0.15
+Media: 0.0
+Non_Profit: 0.05
+Retail: 0.05
+Hospitality: 0.1
+Travel: 0.1
+Staffing: 0.05
+Logistics: 0.05
+Security: 0.0
+_____Data base# 3_____
+Tenant count 20
+ConsumerGoods: 0.05
+Energy_and_Chemicals: 0.05
+Financial: 0.15
+Government: 0.05
+Healthcare: 0.1
+High_Tech: 0.15
+Higher_Education: 0.0
+Manufacturing: 0.2
+Media: 0.0
+Non_Profit: 0.0
+Retail: 0.05
+Hospitality: 0.15
+Travel: 0.05
+Staffing: 0.0
+Logistics: 0.0
+Security: 0.0
+_____Data base# 4_____
+Tenant count 20
+ConsumerGoods: 0.0
+Energy_and_Chemicals: 0.05
+Financial: 0.1
+Government: 0.0
+Healthcare: 0.1
+High_Tech: 0.15
+Higher_Education: 0.0
+Manufacturing: 0.2
+Media: 0.0
+Non_Profit: 0.0
+Retail: 0.0
+Hospitality: 0.15
+Travel: 0.05
+Staffing: 0.05
+Logistics: 0.05
+Security: 0.1

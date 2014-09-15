@@ -1,0 +1,196 @@
+
+____Database# : 0
+Tenant count 20
+High Prob: 11____________Middle Prob: 1___________Low Prob: 8
+Enterprise (10)___________Enterprise (0)___________Enterprise (8)          
+Government                                        Hospitality              
+High_Tech                                         Financial                
+Financial                                         Energy_and_Chemicals     
+Hospitality                                       Logistics                
+Energy_and_Chemicals                              High_Tech                
+Logistics                                         High_Tech                
+Manufacturing                                     High_Tech                
+ConsumerGoods                                     Manufacturing            
+Non_Profit                                                                 
+Retail                                                                     
+Medium (0)_______________Medium (1)_______________Medium (0)          
+                         Hospitality                                       
+Small (1)________________Small (0)________________Small (0)          
+Travel                                                                     
+
+____Database# : 1
+Tenant count 20
+High Prob: 9____________Middle Prob: 3___________Low Prob: 8
+Enterprise (7)___________Enterprise (2)___________Enterprise (7)          
+High_Tech                Manufacturing            High_Tech                
+ConsumerGoods            Hospitality              High_Tech                
+Financial                                         Financial                
+Security                                          Healthcare               
+Healthcare                                        Financial                
+Non_Profit                                        Manufacturing            
+Media                                             High_Tech                
+Medium (2)_______________Medium (0)_______________Medium (1)          
+Hospitality                                       Manufacturing            
+Manufacturing                                                              
+Small (0)________________Small (1)________________Small (0)          
+                         Manufacturing                                     
+
+____Database# : 2
+Tenant count 20
+High Prob: 10____________Middle Prob: 0___________Low Prob: 10
+Enterprise (9)___________Enterprise (0)___________Enterprise (10)          
+Retail                                            Financial                
+ConsumerGoods                                     Hospitality              
+Financial                                         Energy_and_Chemicals     
+Energy_and_Chemicals                              Financial                
+Manufacturing                                     Hospitality              
+Hospitality                                       Higher_Education         
+Staffing                                          Retail                   
+Higher_Education                                  Staffing                 
+Healthcare                                        Manufacturing            
+                                                  Healthcare               
+Medium (1)_______________Medium (0)_______________Medium (0)          
+Non_Profit                                                                 
+Small (0)________________Small (0)________________Small (0)          
+
+____Database# : 3
+Tenant count 20
+High Prob: 10____________Middle Prob: 2___________Low Prob: 8
+Enterprise (10)___________Enterprise (0)___________Enterprise (8)          
+Energy_and_Chemicals                              Manufacturing            
+Healthcare                                        High_Tech                
+High_Tech                                         Hospitality              
+Media                                             Financial                
+Travel                                            Manufacturing            
+ConsumerGoods                                     Government               
+Manufacturing                                     Hospitality              
+Government                                        Manufacturing            
+Hospitality                                                                
+Financial                                                                  
+Medium (0)_______________Medium (0)_______________Medium (0)          
+Small (0)________________Small (2)________________Small (0)          
+                         High_Tech                                         
+                         Travel                                            
+
+____Database# : 4
+Tenant count 20
+High Prob: 11____________Middle Prob: 3___________Low Prob: 6
+Enterprise (8)___________Enterprise (1)___________Enterprise (4)          
+Financial                Healthcare               Financial                
+High_Tech                                         Financial                
+Retail                                            High_Tech                
+Travel                                            Financial                
+Energy_and_Chemicals                                                       
+Hospitality                                                                
+Security                                                                   
+Government                                                                 
+Medium (2)_______________Medium (0)_______________Medium (1)          
+Manufacturing                                     Manufacturing            
+Non_Profit                                                                 
+Small (1)________________Small (2)________________Small (1)          
+Healthcare               High_Tech                Healthcare               
+                         Manufacturing                                     
+
+____Database# : 0
+Tenant count 20
+High Prob: 12____________Middle Prob: 0___________Low Prob: 8
+Enterprise (12)___________Enterprise (0)___________Enterprise (8)          
+Financial                                         Financial                
+High_Tech                                         Financial                
+Manufacturing                                     High_Tech                
+Hospitality                                       High_Tech                
+Energy_and_Chemicals                              Manufacturing            
+Healthcare                                        Hospitality              
+ConsumerGoods                                     Energy_and_Chemicals     
+Government                                        Healthcare               
+Retail                                                                     
+Higher_Education                                                           
+Media                                                                      
+Non_Profit                                                                 
+Medium (0)_______________Medium (0)_______________Medium (0)          
+Small (0)________________Small (0)________________Small (0)          
+
+____Database# : 1
+Tenant count 20
+High Prob: 12____________Middle Prob: 2___________Low Prob: 6
+Enterprise (12)___________Enterprise (0)___________Enterprise (6)          
+Financial                                         Financial                
+High_Tech                                         Financial                
+Manufacturing                                     High_Tech                
+Hospitality                                       High_Tech                
+Energy_and_Chemicals                              Manufacturing            
+Healthcare                                        Hospitality              
+ConsumerGoods                                                              
+Government                                                                 
+Retail                                                                     
+Higher_Education                                                           
+Media                                                                      
+Non_Profit                                                                 
+Medium (0)_______________Medium (2)_______________Medium (0)          
+                         Manufacturing                                     
+                         Non_Profit                                        
+Small (0)________________Small (0)________________Small (0)          
+
+____Database# : 2
+Tenant count 20
+High Prob: 13____________Middle Prob: 2___________Low Prob: 5
+Enterprise (12)___________Enterprise (0)___________Enterprise (5)          
+Financial                                         Financial                
+High_Tech                                         Financial                
+Manufacturing                                     High_Tech                
+Hospitality                                       Manufacturing            
+Energy_and_Chemicals                              Hospitality              
+Healthcare                                                                 
+ConsumerGoods                                                              
+Government                                                                 
+Retail                                                                     
+Travel                                                                     
+Staffing                                                                   
+Logistics                                                                  
+Medium (1)_______________Medium (1)_______________Medium (0)          
+Non_Profit               Manufacturing                                     
+Small (0)________________Small (1)________________Small (0)          
+                         Travel                                            
+
+____Database# : 3
+Tenant count 20
+High Prob: 10____________Middle Prob: 5___________Low Prob: 5
+Enterprise (10)___________Enterprise (0)___________Enterprise (5)          
+Financial                                         Financial                
+High_Tech                                         Financial                
+Manufacturing                                     High_Tech                
+Hospitality                                       Manufacturing            
+Energy_and_Chemicals                              Hospitality              
+Healthcare                                                                 
+ConsumerGoods                                                              
+Government                                                                 
+Retail                                                                     
+Travel                                                                     
+Medium (0)_______________Medium (2)_______________Medium (0)          
+                         Manufacturing                                     
+                         Hospitality                                       
+Small (0)________________Small (3)________________Small (0)          
+                         Healthcare                                        
+                         High_Tech                                         
+                         Manufacturing                                     
+
+____Database# : 4
+Tenant count 20
+High Prob: 10____________Middle Prob: 5___________Low Prob: 5
+Enterprise (9)___________Enterprise (0)___________Enterprise (5)          
+Financial                                         Financial                
+High_Tech                                         High_Tech                
+Manufacturing                                     Manufacturing            
+Hospitality                                       Hospitality              
+Energy_and_Chemicals                              Security                 
+Healthcare                                                                 
+Staffing                                                                   
+Logistics                                                                  
+Security                                                                   
+Medium (0)_______________Medium (2)_______________Medium (0)          
+                         Manufacturing                                     
+                         Hospitality                                       
+Small (1)________________Small (3)________________Small (0)          
+Travel                   Healthcare                                        
+                         High_Tech                                         
+                         Manufacturing                                     
